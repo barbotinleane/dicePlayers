@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300&display=swap');
+
+body {
+  font-family: Lato, sans-serif;
+}
+
+button {
+  background:none;
+  border:none;
+  padding:10px;
+}
+
+.coral {
+  color:#eb4d4c;
+}
+
+.box-coral {
+  background-color:#eb4d4c;
+  width:50%;
+  margin:auto auto 10px auto;
+}
+
+.bg-lightgrey {
+  background-color: #f7f7f7;
+}
+
+.size-1 {
+  font-size:4em;
+}
+
+.size-2 {
+  font-size:2em;
+}
+
+.size-3 {
+  font-size:1em;
+}
+
+.size-4 {
+  font-size:0.8em;
+}
+
+.big-height {
+  height:350px;
+}
+
+.text-thin {
+  font-weight:100;
+}
+
+#dice {
+  box-shadow: -7px 8px 39px 5px rgba(0,0,0,0.24);
+  height:60px;
+  width:60px;
+  background-color: white;
+}
